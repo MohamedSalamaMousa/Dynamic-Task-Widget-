@@ -98,7 +98,11 @@ Update `.env`:
 
 ## Demo Video
 
-Watch the full demonstration: [demo-video.mp4](./auto_task.mp4)
+Watch the full demonstration on YouTube:
+
+[![Watch Demo Video](https://img.youtube.com/vi/grDDILXix0M/0.jpg)](https://youtu.be/grDDILXix0M)
+
+> Click the image to watch the video.
 
 ## Project Structure
 
@@ -178,4 +182,4 @@ Open-source. Free to use for learning purposes.
 
 Built as part of a technical assessment to demonstrate full-stack Laravel development skills.
 
-> > > > > > > 60955b1 (video)
+
