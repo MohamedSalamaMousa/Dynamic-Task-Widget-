@@ -33,7 +33,7 @@ A full-stack Laravel application featuring a task management widget with real-ti
 1. **Clone the repository**
 
 ```bash
-   https://github.com/MohamedSalamaMousa/Dynamic-Task-Widget.git
+ git clone https://github.com/MohamedSalamaMousa/Dynamic-Task-Widget.git
    cd Dynamic-Task-Widget
 ```
 
