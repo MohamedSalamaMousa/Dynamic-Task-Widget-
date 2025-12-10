@@ -103,6 +103,7 @@ Watch the full demonstration on YouTube:
 [![Watch Demo Video](https://img.youtube.com/vi/grDDILXix0M/0.jpg)](https://youtu.be/grDDILXix0M)
 
 > Click the image to watch the video.
+> ![App Screenshot](public/images/demo.png)
 
 ## Project Structure
 
@@ -176,10 +177,8 @@ Open-source. Free to use for learning purposes.
 
 ## Author
 
-[Your Name]
+[Mohamed Salama]
 
 ## Acknowledgments
 
 Built as part of a technical assessment to demonstrate full-stack Laravel development skills.
-
-
