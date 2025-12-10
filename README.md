@@ -98,7 +98,7 @@ Update `.env`:
 
 ## Demo Video
 
-Watch the full demonstration: [demo-video.mp4](./atuo_task.mp4)
+Watch the full demonstration: [demo-video.mp4](./auto_task.mp4)
 
 ## Project Structure
 
